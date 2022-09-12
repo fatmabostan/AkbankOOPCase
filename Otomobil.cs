@@ -6,10 +6,6 @@ namespace PatikaAkbankHGS
 {
     public class Otomobil:AracKayit
     {
-        public int otomobil = 0;
-        public Otomobil()
-        { otomobil++; }
-
         public const string aracinSinifi = "1";
         public void BakiyeSorgu()
         {

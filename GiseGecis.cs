@@ -4,16 +4,15 @@ using System.Text;
 
 namespace PatikaAkbankHGS
 {
-    public class GiseGecis:AracKayit
+    public class GiseGecis
     {   //ucretler tahmini girilmistir.
         public const int otobusUcret = 18;
         public const int minibusUcret = 15;
         public const int otomobilUcret = 10;
 
-        public List<AracKayit> aracKayit = new List<AracKayit>();
-        public List<AracKayit> GecenAracEkle()
+        public List<AracKayit> Add(AracKayit arac)
         {
-            aracKayit.Add(new AracKayit());
+            aracKayit.Add(arac);
             return aracKayit;
         }
 

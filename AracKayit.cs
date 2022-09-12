@@ -14,5 +14,6 @@ namespace PatikaAkbankHGS
         public string Sahip_isimSoyisim;
         public DateTime GecisTarihi;
         public int bakiye;
+        public int aracSinifi;
     }
 }

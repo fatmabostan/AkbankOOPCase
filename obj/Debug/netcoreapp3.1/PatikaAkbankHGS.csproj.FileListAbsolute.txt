@@ -11,3 +11,9 @@ C:\Users\bosta\source\repos\PatikaAkbankHGS\bin\Debug\netcoreapp3.1\PatikaAkbank
 C:\Users\bosta\source\repos\PatikaAkbankHGS\obj\Debug\netcoreapp3.1\PatikaAkbankHGS.dll
 C:\Users\bosta\source\repos\PatikaAkbankHGS\obj\Debug\netcoreapp3.1\PatikaAkbankHGS.pdb
 C:\Users\bosta\source\repos\PatikaAkbankHGS\obj\Debug\netcoreapp3.1\PatikaAkbankHGS.genruntimeconfig.cache
+C:\Users\bosta\source\repos\PatikaAkbankHGS\AkbankWeb3.0\obj\Debug\netcoreapp3.1\PatikaAkbankHGS.csprojAssemblyReference.cache
+C:\Users\bosta\source\repos\PatikaAkbankHGS\AkbankWeb3.0\obj\Debug\netcoreapp3.1\PatikaAkbankHGS.AssemblyInfoInputs.cache
+C:\Users\bosta\source\repos\PatikaAkbankHGS\AkbankWeb3.0\obj\Debug\netcoreapp3.1\PatikaAkbankHGS.AssemblyInfo.cs
+C:\Users\bosta\source\repos\PatikaAkbankHGS\AkbankWeb3.0\obj\Debug\netcoreapp3.1\PatikaAkbankHGS.csproj.CoreCompileInputs.cache
+C:\Users\bosta\source\repos\PatikaAkbankHGS\AkbankWeb3.0\obj\Debug\netcoreapp3.1\PatikaAkbankHGS.dll
+C:\Users\bosta\source\repos\PatikaAkbankHGS\AkbankWeb3.0\obj\Debug\netcoreapp3.1\PatikaAkbankHGS.pdb

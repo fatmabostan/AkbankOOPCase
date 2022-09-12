@@ -6,9 +6,6 @@ namespace PatikaAkbankHGS
 {
     public class Otobus:AracKayit
     {
-        public int otobus = 0;
-        public Otobus()
-        { otobus++; }
         public const string aracinSinifi = "3";
         public void BakiyeSorgu()
         {
