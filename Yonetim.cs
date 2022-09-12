@@ -17,7 +17,7 @@ namespace PatikaAkbankHGS
                     otobus++;
 
             int bakiye = minibusUcret * minibus + otobusUcret * otomobil + otobusUcret * otobus;
-            Console.WriteLine("Toplam kazancınız: "+bakiye)
+            Console.WriteLine("Toplam kazancınız: "+ bakiye);
         }
 
 
